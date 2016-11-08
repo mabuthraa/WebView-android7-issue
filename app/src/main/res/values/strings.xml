@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WebView-android7</string>
+    <string name="text">TextEnglish</string>
+    <string name="web_content"><html><body><div>Base text: English</div></body></html></string>
+</resources>

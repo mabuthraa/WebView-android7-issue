@@ -1,0 +1,4 @@
+<resources>
+    <string name="text">TextCzech</string>
+    <string name="web_content"><html><body><div>Base text: Czech</div></body></html></string>
+</resources>
