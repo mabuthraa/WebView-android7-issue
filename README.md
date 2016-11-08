@@ -1,8 +1,8 @@
 # WebView-android7
-This is a simple Android application shows the issue of WebView with Android 7 and its current workaround solution. 
+This is a simple Android application shows the issue of WebView with Android 7.1 and its current workaround solution. 
 
 ### Issue overview
-With Android 7 (API-25) application resets Locale to device one after launching WebView.
+With Android 7.1 (API-25) application resets Locale to device one after launching WebView.
 
 ### App Structure
 Its very simple. It has three views:
