@@ -9,7 +9,7 @@ Its very simple. It has three views:
 + MainView (MainActivity) to navigate to Detail and WebView
 + WebView (WebActivity) launch WebView with localized content with **LoadData**
 + Detail (DetailActivity) show localized content
-Also app includes a custom application. Resources are base and cz-rCZ (Czech) 
+Also app includes a custom application. Resources are base and cs-rCZ (Czech) 
 
 ### Requirements
 Device/Emulator with Android 7.1 Nougat (API level 25)
